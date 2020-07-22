@@ -1,31 +1,17 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
-     Para obter um guia e receitas sobre como configurar / personalizar este projeto, <br>
-      Confira o,<br>
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
-    <h3>Plugins CLI Instalados</h3>
+    <h3>
+     Aprendendo a programar! <br>
+      Confira o, </h3><br>
+      <a href="https://github.com/anapay" target="_blank" rel="noopener">Código no meu Github</a>
+
+    <h3>Me siga nas redes sociais</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
-    </ul>
-    <h3>Links Essenciais</h3>
-    <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
-    </ul>
-    <h3>Ecosystem</h3>
-    <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
+      <li><a href="https://www.instagram.com/anapay42/?hl=pt-br" target="_blank" rel="noopener">Instagram</a></li>
+      <li><a href="https://codepen.io/Anapay" target="_blank" rel="noopener">CodePen</a></li>
+      <li><a href="https://twitter.com/anapay42" target="_blank" rel="noopener">Twitter</a></li>
+      <li><a href="https://www.linkedin.com/in/ana-paula-6b28291a6/" target="_blank" rel="noopener">Linkedin</a></li>
     </ul>
   </div>
 </template>
@@ -53,6 +39,7 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #442019ea;
 }
+
 </style>
