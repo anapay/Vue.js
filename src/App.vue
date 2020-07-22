@@ -1,7 +1,9 @@
 <template>
   <div id="app">
+    <h1>Guia da Bruxa Hacker!</h1>
+    <h3>Avada Kedavra</h3>
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Seja bem vindo ao guia bruxo Vue.js App"/>
   </div>
 </template>
 
