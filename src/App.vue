@@ -3,7 +3,7 @@
     <h1>Bruxa Hacker!</h1>
     <h3>Avada Kedavra</h3>
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Seja bem vindo ao guia bruxo Vue.js App"/>
+    <HelloWorld msg="Seja bem vindo ao guia bruxo do meu Web site"/>
     <Chat/>
   </div>
 </template>
