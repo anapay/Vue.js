@@ -2,6 +2,8 @@
   <div id="app">
     <h1>Bruxa Hacker!</h1>
     <h3>Avada Kedavra</h3>
+    <h4>Nada de bruxa e muito menos de Hacker!</h4>
+    <h5>Sou mais uma copiadora de código</h5>
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Seja bem vindo ao guia bruxo do meu Web site"/>
     <Chat/>
