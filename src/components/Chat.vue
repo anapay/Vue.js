@@ -1,14 +1,16 @@
 <template>
   <div>
-    
-    <h5>Venha interagir!</h5>
-      <p>Entre no Chat do discord</p>
-      <a href="https://discord.com/channels/735587522993848361/735587524046618746"><button><h3>Accio!</h3></button></a>
+      <h2>Sobre Mim!</h2>
+      <p>Procuro transformar obstáculos em degraus que me levam ao sucesso.</p>
+      <p>Tenho perspectiva e gosto de ser diferente! Não gosto da mesmice;</p>
+      <a href="https://codepen.io/Anapay"><h3>Saiba mais sobre min...</h3></a>
       
+
   </div>
 </template>
 
 <script>
+
 export default {
 
 }
